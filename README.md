@@ -1,4 +1,4 @@
 dwpersonalities
 ===============
 
-Starbound mod that creates the framework for additional race personalities.
+Starbound mod that Creates the framework for additional player race personalities.
