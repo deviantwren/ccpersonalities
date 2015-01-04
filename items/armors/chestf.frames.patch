@@ -8,15 +8,5 @@
   "op" : "add",
   "path" : "/aliases/idle.7",
   "value" : "chest.2"
-  },
-  {
-  "op" : "add",
-  "path" : "/aliases/idle.8",
-  "value" : "chest.2"
-  },
-  {
-  "op" : "add",
-  "path" : "/aliases/idle.9",
-  "value" : "chest.2"
   }
 ]
