@@ -2,11 +2,11 @@
   {
   "op" : "add",
   "path" : "/aliases/idle.6",
-  "value" : "idle.2"
+  "value" : "chest.2"
   },
   {
   "op" : "add",
   "path" : "/aliases/idle.7",
-  "value" : "idle.4"
+  "value" : "chest.2"
   }
 ]

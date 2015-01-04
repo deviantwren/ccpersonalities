@@ -8,5 +8,15 @@
   "op" : "add",
   "path" : "/charGen/personalities/-",
   "value" : [ "idle.7", "idle.7", [-1, 0], [0, 0] ]
+  },
+  {
+  "op" : "add",
+  "path" : "/charGen/personalities/-",
+  "value" : [ "idle.8", "idle.8", [-1, 0], [0, 0] ]
+  },
+  {
+  "op" : "add",
+  "path" : "/charGen/personalities/-",
+  "value" : [ "idle.9", "idle.9", [-1, 0], [0, 0] ]
   }
 ]

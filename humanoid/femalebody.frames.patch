@@ -1,16 +1,22 @@
 [
   {
   "op" : "add",
-  "path" : "/aliases",
-  "value" : {
-    "idle.6" : "idle.2"
-	}
+  "path" : "/aliases/idle.6",
+  "value" : "idle.2"
   },
   {
   "op" : "add",
-  "path" : "/aliases",
-  "value" : {
-    "idle.7" : "idle.4"
-	}
+  "path" : "/aliases/idle.7",
+  "value" : "idle.4"
+  },
+  {
+  "op" : "add",
+  "path" : "/aliases/idle.8",
+  "value" : "idle.4"
+  },
+  {
+  "op" : "add",
+  "path" : "/aliases/idle.9",
+  "value" : "idle.4"
   }
 ]
