@@ -2,7 +2,7 @@
   "name" : "dwpersonalities",
   "version" : "Beta v. Upbeat Giraffe - Update 2",
   "path" : ".",
-  "dependencies" : [],
+  "requires" : [],
   "metadata": {
     "author" : "deviantWren",
     "description" : "Creates the framework for additional player race personalities.",
