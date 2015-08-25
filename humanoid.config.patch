@@ -1,12 +1,12 @@
 [
   {
   "op" : "add",
-  "path" : "/charGen/personalities/-",
+  "path" : "/personalities/-",
   "value" : [ "idle.6", "idle.6", [-1, 0], [0, 0] ]
   },
   {
   "op" : "add",
-  "path" : "/charGen/personalities/-",
+  "path" : "/personalities/-",
   "value" : [ "idle.7", "idle.7", [-1, 0], [0, 0] ]
   }
 ]
