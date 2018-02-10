@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "friendlyName" : "Character Creation Personality Framework",
+  "link" : "",
+  "priority" : -1,
+  "steamContentId" : "",
+  "name" : "ccpersonalities",
+  "description" : "Adds a safe framework for custom personalities with player races.",
+  "author" : "Mntle"
+}

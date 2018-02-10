@@ -1,0 +1,11 @@
+{
+	"name" : "ccpersonaities",
+	"version" : "",
+	"path" : ".",
+	"dependencies" : [ "" ],
+	"metadata" : {
+		"author" : "Mntle",
+		"description" : "Multiple personality disorders are rampant! Yay.",
+		"version" : "1.0"
+	}
+}
